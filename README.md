@@ -1,1 +1,1 @@
-credit:有料
+credit:charge
